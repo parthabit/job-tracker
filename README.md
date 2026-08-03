@@ -56,6 +56,7 @@ job-tracker/
     └── .env.example
 ```
 
+
 ---
 
 ## 🚀 Getting Started
