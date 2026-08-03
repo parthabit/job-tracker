@@ -84,6 +84,7 @@ cp .env.example .env
 Edit `.env` with your values:
 
 ```
+
 PORT=5000
 NODE_ENV=development
 MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/job-tracker
