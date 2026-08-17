@@ -27,7 +27,6 @@ Built with the MERN stack (MongoDB, Express, React, Node.js).
 **Backend:** Node.js, Express.js, MongoDB + Mongoose, JWT, bcryptjs
 
 ---
-
 ## 📁 Project Structure
 
 ```
