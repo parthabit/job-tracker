@@ -3,7 +3,7 @@
 A modern, premium job application tracker built for students and job seekers. Track applications, interviews, offers, and analytics in one clean dashboard.
 
 Built with the MERN stack (MongoDB, Express, React, Node.js). 
-
+ 
 ![Tech](https://img.shields.io/badge/stack-MERN-2563EB)
 
 ---
